@@ -2,3 +2,5 @@
 2.create login page
 3.create all the functionalities
 3.test the product
+4.functional testing
+5.non functional testing
